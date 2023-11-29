@@ -9,15 +9,16 @@ import axios from 'axios'
 global.owner = [
   ['60104348321', 'UniX', true],
   ['60105707500', 'Amzar', true],
+  ['60199573391', 'Syida', true],
   ['66617077633', 'ThaiBoT', true],
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['60104348321', '60105707500', '66617077633'] 
-global.prems = ['60104348321', '60105707500', '66617077633']
-global.allowed = ['60104348321', '60105707500', '66617077633']
+global.mods = ['60104348321','60105707500','60199573391','66617077633'] 
+global.prems = ['60104348321','60105707500','60199573391','66617077633'] 
+global.allowed = ['60104348321','60105707500','60199573391','66617077633'] 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -53,8 +54,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'Amzar┃ᴮᴼᵀ' 
+global.author = '@UniX' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
